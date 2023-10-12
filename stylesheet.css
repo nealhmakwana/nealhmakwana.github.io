@@ -8,29 +8,32 @@ p {
 
 /* Styling using a class */
 .highlighted-text {
-    color: blue;
+    color: darkorange;
     background-color: #f5f5f5;
-}
-
-/* Styling using an id */
-#sample-image {
-    border: 5px solid darkorange;
-    margin: 10px;
 }
 
 /* Link styling */
 a {
     text-decoration: none;
-    color: red;
+    color: blue;
 }
 
 a:hover {
-    color: green;
+    color: deepskyblue;
+}
+
+/* Styling using an id */
+#sample-image {
+    border: 5px solid darkorange;
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 10px;
 }
 
 /* Box model properties */
 .content-section {
     padding: 20px;
     margin: 15px;
-    border: 2px solid gray;
+    border: 2px solid darkorange;
 }
