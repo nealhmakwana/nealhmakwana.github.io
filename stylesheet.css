@@ -1,18 +1,15 @@
 /*NAME: Neal Makwana*/
 /*UT EID: nhm455*/
 
-/* Styling an HTML tag */
 p {
     font-family: Arial, sans-serif;
 }
 
-/* Styling using a class */
 .highlighted-text {
     color: darkorange;
     background-color: #f5f5f5;
 }
 
-/* Link styling */
 a {
     text-decoration: none;
     color: blue;
@@ -22,7 +19,6 @@ a:hover {
     color: deepskyblue;
 }
 
-/* Styling using an id */
 #sample-image {
     border: 5px solid darkorange;
     width: 50%;
@@ -31,7 +27,6 @@ a:hover {
     margin: 10px;
 }
 
-/* Box model properties */
 .content-section {
     padding: 20px;
     margin: 15px;
